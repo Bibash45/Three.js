@@ -1,1 +1,2 @@
-# Three.js-React-Three-Fiber-Drei-React-Spring-more
+Hi! My name is bibash chaudhary . 
+this repo is for three.js 
